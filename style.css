@@ -1,0 +1,31 @@
+.bg-light{
+    background-color:#C21924  !important;
+}
+.card-text{
+    background-color: #C21924; color: #FFEE2E;
+}
+.navbar-brand{
+    color: #FFEE2E;
+}
+.nav-link{
+    color: #FFEE2E;
+}
+.nav-link active{
+    color: #FFEE2E;
+}
+.card-title{
+    color: #FFEE2E;
+}
+.list-group-item{
+    color: #FFEE2E; background-color: #C21924;
+}
+.bgcolor{
+    background-color: #FFEE2E;
+}
+.card{
+    background-color: #FFEE2E;
+}
+.mb-3{
+    background-color: #C21924;
+}
+
